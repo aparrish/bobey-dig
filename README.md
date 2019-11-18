@@ -5,7 +5,7 @@ By [Allison Parrish](http://www.decontextualize.com/) for [NaNoGenMo
 
 Another NaNoGenMo entry: *Moby Dick* rewritten with
 [Pincelate](https://github.com/aparrish/pincelate/) so that it sounds like the
-narrator has a headcold. For best results, enjoy with "a pitch-like potion of
+narrator has a head cold. For best results, enjoy with "a pitch-like potion of
 gin and molasses."
 
 An excerpt, alongside lines from the original:
