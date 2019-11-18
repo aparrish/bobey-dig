@@ -32,7 +32,7 @@ In this repository:
 
 * [Source code](headcoldify.ipynb) (Python 3.6+, Jupyter Notebook)
 * [Output](bobey-dig.txt)
-* [Output with original text inline](boby-dig-annotated.txt)
+* [Output with original text inline](bobey-dig-annotated.txt)
 
 (You can use perform transformation on any text, of course. I used *Moby Dick*? because it seems to be [NaNoGenMo tradition](https://github.com/dariusk/NaNoGenMo-2014/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+moby)
 to use it for experiments like these.)
